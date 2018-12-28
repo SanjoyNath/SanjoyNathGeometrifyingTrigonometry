@@ -3,6 +3,8 @@ https://geometrifyingtrigonometry.quora.com/
 https://geometrifyingtrigonometry.quora.com/Geometrifying-Trigonometry
 Refer
 
+
+
 Algebraic Structure of Geometrifying Trigonometry
 
 We have defined Several operations of Geometrifying Trigonometry which looks similar to that of Vector Algebra but the definitions of Equality , Definitions of Summations , Definitions of Toe Tips are all very much different and too much rigid in case of Geometrifying Trigonometry.
