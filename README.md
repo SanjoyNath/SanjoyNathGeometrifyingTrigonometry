@@ -6,7 +6,7 @@ Refer
 
 
 Algebraic Structure of Geometrifying Trigonometry
-
+https://camo.githubusercontent.com/4039160357cbd661fcd8d531817b83895bb4039b/68747470733a2f2f7170682e66732e71756f726163646e2e6e65742f6d61696e2d71696d672d3233633363613537653636383063363537633966626666323133313330656335
 We have defined Several operations of Geometrifying Trigonometry which looks similar to that of Vector Algebra but the definitions of Equality , Definitions of Summations , Definitions of Toe Tips are all very much different and too much rigid in case of Geometrifying Trigonometry.
 
 Although we use Vector Algebra to model several real life problems , We can use Geometrifying Trigonometry for several mathematical modeling systems to generate alternative identity conditions , or several types of visualization problems or to model scenario analysis where space planning is necessary
