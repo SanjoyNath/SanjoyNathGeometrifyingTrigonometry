@@ -8,7 +8,8 @@ BUT
 if we want to retain the geometry intact and proceed with geometry and if we want to visualize all possible orientations that occur due to Trigonometric expressions or identities , That is if we want to do some Step wise proof of Trigonometric Expressions in terms of Geometry itself then we are stuck
 This Framework is a small endeavour to achieve this since it ie necessary for many 3D calculations and space planning in CAD or CAD related Softwares like BIM
 
-
+Follow WIKI of this Geometrifying Trigonometry for more details
+https://github.com/SanjoyNath/GeometrifyingTrigonometry/wiki
 
 https://geometrifyingtrigonometry.quora.com/
 https://geometrifyingtrigonometry.quora.com/Geometrifying-Trigonometry
