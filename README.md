@@ -5,6 +5,8 @@ We Are Doing Geometry and Trigonometry from school days but we were doing Trigon
 BUT
 BUT
 BUT
+
+
 if we want to retain the geometry intact and proceed with geometry and if we want to visualize all possible orientations that occur due to Trigonometric expressions or identities , That is if we want to do some Step wise proof of Trigonometric Expressions in terms of Geometry itself then we are stuck
 This Framework is a small endeavour to achieve this since it ie necessary for many 3D calculations and space planning in CAD or CAD related Softwares like BIM
 
